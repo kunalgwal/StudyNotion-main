@@ -29,7 +29,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "https://studynotion-frontend-0otf.onrender.com",
+    origin: "https://studynotion-frontend-f62j.onrender.com",
     credentials: true,
   })
 );
